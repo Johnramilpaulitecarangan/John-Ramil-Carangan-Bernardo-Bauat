@@ -1,0 +1,7 @@
+{
+  "name": "panda",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
